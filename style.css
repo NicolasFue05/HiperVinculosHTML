@@ -1,0 +1,11 @@
+.logoGmail {
+    width: 200px;
+}
+
+.logoDiscord {
+    width: 120px;
+}
+.iconos{
+    display: flex;
+    flex-direction: row;
+}
